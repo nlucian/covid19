@@ -4,3 +4,4 @@ matplotlib
 folium
 gmaps
 voila
+mplcyberpunk
