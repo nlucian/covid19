@@ -5,7 +5,7 @@ folium
 gmaps
 voila
 mplcyberpunk
-keras
+keras==2.3.1
 git+https://www.github.com/keras-team/keras-contrib.git
 datetime
 sklearn
