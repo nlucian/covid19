@@ -6,6 +6,7 @@ gmaps
 voila
 mplcyberpunk
 keras
+git+https://www.github.com/keras-team/keras-contrib.git
 datetime
 sklearn
 seaborn
