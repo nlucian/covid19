@@ -5,10 +5,12 @@ folium
 gmaps
 voila
 mplcyberpunk
-keras==2.3.1
+tensorflow>=1.15.0
+Keras==2.3.1
 git+https://www.github.com/keras-team/keras-contrib.git
 datetime
 sklearn
+scikit-learn
 seaborn
 plotly
 IPython
