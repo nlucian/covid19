@@ -10,3 +10,4 @@ datetime
 sklearn
 seaborn
 plotly
+IPython
