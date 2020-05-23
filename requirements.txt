@@ -5,7 +5,7 @@ folium
 gmaps
 voila
 mplcyberpunk
-tensorflow>=1.0.1
+tensorflow>=1.15.0
 Keras==2.3.1
 git+https://www.github.com/keras-team/keras-contrib.git
 datetime
