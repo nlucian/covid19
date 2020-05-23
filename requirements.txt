@@ -8,3 +8,5 @@ mplcyberpunk
 keras
 datetime
 sklearn
+seaborn
+plotly
