@@ -6,3 +6,6 @@ gmaps
 voila
 mplcyberpunk
 keras
+datetime
+urllib
+sklearn
