@@ -4,7 +4,7 @@ Click to view [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
 
 Novel Coronavirus (COVID 19) Cases Johns Hopkins Dataset
 
-Dinu Constantin, Lucian Nut, Cristofor Petre
+Constantin Dinu Vasiliu, Lucian Nut, Cristofor Petre
 
 Work in progress.
 
